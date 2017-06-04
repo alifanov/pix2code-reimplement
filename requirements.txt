@@ -1,0 +1,7 @@
+BeautifulSoup4
+pypandoc
+imgkit==0.0.5
+numpy
+scipy
+tensorflow
+keras
